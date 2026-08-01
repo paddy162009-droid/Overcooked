@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/YV/OSODYUGD05T998IV3QZVRF.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9R/0VEYMRWK9H0K7SHOWZU3U5.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/QV/HIRCILA0STRQ5ZQ0MFJFKK.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3K/UPD3ZRJF57YPQEZCAVDZYR.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/32/1IW9OHQZ34BBC2IKCYB31N.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/CR/I95A89GBSO1O6YQ9D8CPYG.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/Variant_Combat/Lvl_Combat/E/J9/Q4B9M2NH0W56UM3XIMZMOZ.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/Variant_Combat/Lvl_Combat/7/NH/OZIWYWZ504JN67KTYT7TNE.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/Variant_Combat/Lvl_Combat/6/5R/1M5SJU97DAWDY0KLCW5GQM.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/Variant_Combat/Lvl_Combat/5/4J/Q830PY5MR3GKLZI02T0Y2I.uasset",
+				"/Users/Zhuanz/Desktop/GameWorkshop26-main/Content/__ExternalActors__/Variant_Combat/Lvl_Combat/8/KF/ADW4FZUGZYK2CLA90SUJHN.uasset"
+			]
+		}
+	]
+}
